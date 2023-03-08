@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankush Singh Bhardwaj
-- 👀 I’m interested in Robotics, ADAS and Automation
-- 🌱 I’m currently learning Neural Networks and ML
-- 💞️ I’m looking to collaborate on ADAS, Robotics
+- 👀 I’m interested in Robotics, Controls and Automation
+- 🌱 I’m currently a 1st year Master's Student studying Robotics at WPI 
+- 💞️ I’m looking to collaborate on Robotic Controls, Dynamics, Neural Networks and Motion Planning
 - 📫 How to reach me www.linkedin.com/in/ankush-singh-mct
 
 <!---
