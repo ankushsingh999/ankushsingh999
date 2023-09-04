@@ -7,7 +7,7 @@ Hi, I’m Ankush Singh Bhardwaj
 
 
 - 👀 I’m interested in Robotics, Controls and Automation
-- 🌱 I’m currently a 1st year Master's Student studying Robotics at WPI 
+- 🌱 I’m currently a 2nd year Master's Student studying Robotics at WPI 
 - 💞️ I’m looking to collaborate on Robotic Controls, Dynamics, Neural Networks and Motion Planning
 
 - 📫 You can reach out to me on [LinkedIn]((https://www.linkedin.com/in/ankush-singh-mct/)) **|** [Mail](mailto:abhardwaj@wpi.edu)
